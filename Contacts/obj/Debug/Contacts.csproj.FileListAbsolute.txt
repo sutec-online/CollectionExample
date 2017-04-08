@@ -1,0 +1,7 @@
+c:\users\seymasarigil\documents\visual studio 2015\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+c:\users\seymasarigil\documents\visual studio 2015\Projects\Contacts\Contacts\bin\Debug\contacts.xml
+c:\users\seymasarigil\documents\visual studio 2015\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+c:\users\seymasarigil\documents\visual studio 2015\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+c:\users\seymasarigil\documents\visual studio 2015\Projects\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+c:\users\seymasarigil\documents\visual studio 2015\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+c:\users\seymasarigil\documents\visual studio 2015\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
